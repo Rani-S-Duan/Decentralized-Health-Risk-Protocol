@@ -1,1 +1,4 @@
 # Decentralized-Health-Risk-Protocol
+MembershipManager:0x7A8C1a33e0A80A186dA02dE8B5CB4859787dafe5
+ClaimManager: 0x2C91164Ab0F36452ec75DBC038971807Fc6f2f46
+HealthRiskPool: 0x4ce0f2Fbc4ee6e0075F0560e5036169c1e4d9B88
