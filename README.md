@@ -74,10 +74,12 @@ Run specific test file : yarn hardhat test ./test/HealthRiskProtocol.test.ts
 HealthRiskPool: 0x38a024C0b412B9d1db8BC398140D00F5Af3093D4
 MembershipManager: 0x5fc748f1FEb28d7b76fa1c6B07D8ba2d5535177c
 ClaimManager: 0xB82008565FdC7e44609fA118A4a681E92581e680
- 
+
+Live Frontend (Demo) : https://health-protocol-ui.vercel.app/
+
 ### Network Information:
 Network : Mantle Sepolia Testnet
-Chain ID : 5003
+Chai ID
 RPC URL : https://rpc.sepolia.mantle.xyz
 Block Explorer : https://explorer.sepolia.mantle.xyz
 
